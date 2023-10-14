@@ -1,0 +1,100 @@
+Toyota/C-HR
+Toyota/Camry
+Toyota/Corolla
+Toyota/Corolla Cross
+Toyota/Fortuner
+Toyota/Hiace
+Toyota/Hilux
+Toyota/Kluger
+Toyota/Landcruiser
+Toyota/Landcruiser Prado
+Toyota/RAV4
+Toyota/Yaris
+Toyota/Yaris Cross
+Mazda/2
+Mazda/3
+Mazda/6
+Mazda/BT-50
+Mazda/CX-3
+Mazda/CX-5
+Mazda/CX-8
+Mazda/CX-9
+Mazda/CX-30
+Mazda/CX-60
+Mazda/MX-30
+Mitsubishi/ASX
+Mitsubishi/Eclipse Cross
+Mitsubishi/Outlander
+Mitsubishi/Pajero Sport
+Mitsubishi/Triton
+Nissan/JUKE
+Nissan/Navara
+Nissan/Pathfinder
+Nissan/Patrol
+Nissan/QASHQAI
+Nissan/X-TRAIL
+Subaru/Crosstrek
+Subaru/Forester
+Subaru/Outback
+Subaru/WRX
+Subaru/XV
+Honda/CR-V
+Honda/HR-V
+Suzuki/Ignis
+Suzuki/Jimny
+Suzuki/S-Cross
+Suzuki/Swift
+Suzuki/Vitara
+Lexus/NX
+Lexus/RX
+Audi/A3
+Audi/A4
+Audi/Q2
+Audi/Q3
+Audi/Q5
+Audi/Q7
+BMW/1 Series
+BMW/2 Series
+BMW/3 Series
+BMW/4 Series
+BMW/X1
+BMW/X3
+BMW/X4
+BMW/X5
+Mercedes-Benz/C-Class
+Mercedes-Benz/CLA-Class
+Mercedes-Benz/GLA-Class
+Mercedes-Benz/GLB-Class
+Mercedes-Benz/GLC-Class
+Mercedes-Benz/GLE-Class
+Mercedes-Benz/Sprinter
+Mercedes-Benz/Vito
+Ford/Escape
+Ford/Everest
+Ford/Mustang
+Ford/Puma
+Ford/Ranger
+Hyundai/i30
+Hyundai/Kona
+Hyundai/Palisade
+Hyundai/Santa Fe
+Hyundai/Tucson
+Hyundai/Venue
+Kia/Carnival
+Kia/EV6
+Kia/Niro
+Kia/Cerato
+Kia/Picanto
+Kia/Rio
+Kia/Seltos
+Kia/Sorento
+Kia/Sportage
+Kia/Stinger
+Kia/Stonic
+Porsche/Cayenne
+Porsche/Macan
+Chevrolet/Silverado
+Isuzu/MU-X
+Jeep/Wrangler
+Jeep/Grand Cherokee
+Jeep/Compass
